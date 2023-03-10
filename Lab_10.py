@@ -5,8 +5,7 @@ Created on Tue Dec 20 13:20:32 2022
 @author: kagan.ozturk-ug
 """
 
-import os
-os.chdir("D:/Users/kagan.ozturk-ug/Desktop/02_Lab10_YigitKaganOzturk_22103072")
+
 import numpy as np
 import matplotlib.pyplot as plt
 plt.clf()
